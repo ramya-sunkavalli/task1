@@ -1,3 +1,3 @@
 # ramya-sunkavalli.task1
-to prdicct the percentage of student based on stud hours.
-using simple linear regression as it contains only two variables
+to predict the percentage of students based on study hours.
+using simple linear regression model as it contains only two variables
